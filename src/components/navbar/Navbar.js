@@ -18,7 +18,7 @@ const Navbar = () => {
       <div className="logo">
         <SiAnaconda color="#fff" size={33} />
         <p className="logo-text">
-          GCK<span> Car Rentals</span>
+          <span>GCK</span>
         </p>
       </div>
       <menu>
